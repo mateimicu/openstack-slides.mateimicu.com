@@ -1,0 +1,5 @@
+baseURL = "http://openstack-slides.mateimicu.com/"
+languageCode = "en-us"
+title = "mateimicu"
+theme = "hugo-theme-revealjs"
+enableRobotsTXT = true
