@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 echo "Deleting old publication"
 
-CNAME="openstack-slides.mateimicu.com"
+CNAME="openstack-slides.micumatei.com"
 
 echo "get the themes"
 git submodule update
