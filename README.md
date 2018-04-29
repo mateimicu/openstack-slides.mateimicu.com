@@ -162,6 +162,14 @@ Manages the networking and implements SDN(software define networking)
 - `neutron-sdn` can interact with external resources (cisco routes that support SDN features)
 
 
+# Install OpenStack
+There are a few great resources that can help you with installing openstack:
+
+- Using [DevStack](https://wiki.openstack.org/wiki/DevStack) you can follow [this video](https://www.youtube.com/watch?v=qgQARDfVrs8&)
+- Using [RDO](http://rdoproject.org/) on [VirtualBox](https://www.virtualbox.org/) you can follow [this blog post](http://mateimicu.com/posts/install-openstack-rdo)
+- Usign [OpenStack Labs]() you can follow [this blog post](http://mateimicu.com/posts/install-openstack-labs/)
+- Using [Conjure-Up](https://conjure-up.io/) you can follow the [official docs](https://www.ubuntu.com/download/cloud/try-openstack)
+
 
 
 
