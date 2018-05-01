@@ -12,6 +12,8 @@ And Vitalization software (vSphere from VMWare for example).
 
 But this option is quite expensive on the software side (licenses are giver per CPU/server).
 
+Also you are locked in VMWare word.
+
 ### What OpenStack can do?
 
 In a typical scenario you have multiple types of compute hardware. We will imagine the following scenario :
@@ -161,13 +163,80 @@ Manages the networking and implements SDN(software define networking)
 
 - `neutron-sdn` can interact with external resources (cisco routes that support SDN features)
 
+# How is it made ?
+How is OpenStack developed ?
+
+## Open Source
+All the code is open-source, it is governed by a foundations (like most big open source software) and a lot of companies are involved.
+
+The foundation responsibility is to set common rules, organize summits and maintain tooling.
+
+### Who is involved ?
+OpenStack is really flexible and you can change all the components (if the new components respects the API),
+some components support drivers and plugging's.
+This results in interest from a lot of vendors to add support, anything from:
+
+- hardware producers, even if openstack can run on commodity hardware there is an advance to add plug-ins for bare metal hardware/servers
+- networking software and hardware, some advance networking hardware can enchant an openstack deployment
+- support for a wide variety of operating systems (Ubuntu, REDHAT, suse, windows)
+
+### OpenStack contributors for the queens release
+We can see the big names in open source, cloud like RedHat, Suse, IBM, RackSpace but we also see interest companies like Huawei (they have a vendor specific OpenStack for Telecom industry).
+
+Another interesting part is `*independent` this are commits from individual people (normal people that contributed to openstack for various reasons).
+
+Another good question is : **Why do this companies spend so much time and money on OpenStack, what they have to gain?**.
+They have the following business model:
+
+OpenStack is so vast and you can combine so many projects with so many drivers and software (some of the combinations are not tested) that it's to unstable to use in production.
+Some companies that have influence on openstack lock down the components and drivers and offer a "vendor specific openstack" (like RedHad with Redhat deployment of openstack,
+like Oracle, IBM, VMWare and other that support there software solutions inside the openstack platform)
+
+
+### How is it developed
+Like any open-source project they use something similar to github (gerrit from google).
+
+The flow is quite simple:
+
+- Clone the repository to your local environment 
+- Add you fix/feature
+- Run unit tests 
+- Push it to gerrit (same as github)
+- Where thinks are complex is with testing. There are two fazes:
+    * check - where it is checked for simple things like :does it compile, unit tests, linters and standard stuff
+    * gate - only when the code review approved this commit it goes to a gate check where every company interested in this piece of software add and maintains testing infrastructure
+
+**Gate testing**
+If I'm microsoft and I added support for Hyper-V in OpenStack I have an interest to keep the support there and make sure that developers don't break my driver this is why I add tot the
+`nova gate testing` a faze and add and maintain CI's that ensure that this project will still work with my supervisor.
+
+
+# How to install ?
+There are multiple ways to install OpenStack for developers
+
+## DevStack
+This is a project that will help you install in a virtual machine all the components.
+
+## RDO (redhat deployment of openstack)
+This is an redhat specifc tool and it work on CentOS/RHEL it usually offers more stability and manages to auto-configure a lot more.
+
+## OpenStack Labs
+A python project that will deploy an openstack for you the easy way (so you can poke around)
+
+## Conjure-Up
+Ubuntu version of packstack using juju
+
+
+
+
+
 
 # Install OpenStack
 There are a few great resources that can help you with installing openstack:
 
 - Using [DevStack](https://wiki.openstack.org/wiki/DevStack) you can follow [this video](https://www.youtube.com/watch?v=qgQARDfVrs8&)
 - Using [RDO](http://rdoproject.org/) on [VirtualBox](https://www.virtualbox.org/) you can follow [this blog post](http://mateimicu.com/posts/install-openstack-rdo)
-- Usign [OpenStack Labs]() you can follow [this blog post](http://mateimicu.com/posts/install-openstack-labs/)
+- Using [OpenStack Labs](https://github.com/openstack/training-labs) you can follow [this blog post](http://mateimicu.com/posts/install-openstack-labs/)
 - Using [Conjure-Up](https://conjure-up.io/) you can follow the [official docs](https://www.ubuntu.com/download/cloud/try-openstack)
 
 
@@ -181,3 +250,6 @@ There are a few great resources that can help you with installing openstack:
 - [Nebula Wikipedia](https://en.wikipedia.org/wiki/Nebula_(computing_platform))
 - [RackSpace Wikipedia](https://en.wikipedia.org/wiki/Rackspacek)
 - [Austin Release Nones](https://wiki.openstack.org/wiki/ReleaseNotes/Austin)
+- [OpenStack foundations](https://www.openstack.org/foundation/)
+- [Stackalitics](stackalytics.com/)
+- [OpenStack development](https://docs.openstack.org/infra/manual/developers.html)
