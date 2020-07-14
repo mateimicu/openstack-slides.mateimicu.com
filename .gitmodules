@@ -1,0 +1,3 @@
+[submodule "themes/hugo-theme-revealjs"]
+	path = themes/hugo-theme-revealjs
+	url = https://github.com/mateimicu/hugo-theme-revealjs.git

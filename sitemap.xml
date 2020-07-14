@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://openstack-slides.mateimicu.com/06_argus/14_check_state/</loc>
+  </url>
+  
+  <url>
+    <loc>http://openstack-slides.mateimicu.com/06_argus/13_run_tests/</loc>
+  </url>
+  
+  <url>
+    <loc>http://openstack-slides.mateimicu.com/06_argus/12_prepare_introspections/</loc>
+  </url>
+  
+  <url>
+    <loc>http://openstack-slides.mateimicu.com/06_argus/11_provision_vm/</loc>
+  </url>
+  
+  <url>
+    <loc>http://openstack-slides.mateimicu.com/07_info/02_author/</loc>
+  </url>
+  
+  <url>
+    <loc>http://openstack-slides.mateimicu.com/06_argus/10_return_client/</loc>
+  </url>
+  
+  <url>
+    <loc>http://openstack-slides.mateimicu.com/07_info/01_links/</loc>
+  </url>
+  
+  <url>
+    <loc>http://openstack-slides.mateimicu.com/06_argus/08_first_contact/</loc>
+  </url>
+  
+  <url>
+    <loc>http://openstack-slides.mateimicu.com/06_argus/07_ask_pulic_ip/</loc>
+  </url>
+  
+  <url>
+    <loc>http://openstack-slides.mateimicu.com/06_argus/06_win_rm_client/</loc>
+  </url>
+  
+  <url>
+    <loc>http://openstack-slides.mateimicu.com/06_argus/05_get_client/</loc>
+  </url>
+  
+  <url>
+    <loc>http://openstack-slides.mateimicu.com/06_argus/04_recipe/</loc>
+  </url>
+  
+  <url>
+    <loc>http://openstack-slides.mateimicu.com/06_argus/03_openstack_call/</loc>
+  </url>
+  
+  <url>
+    <loc>http://openstack-slides.mateimicu.com/06_argus/02_backend/</loc>
+  </url>
+  
+  <url>
+    <loc>http://openstack-slides.mateimicu.com/06_argus/01_scenario/</loc>
+  </url>
+  
+  <url>
+    <loc>http://openstack-slides.mateimicu.com/06_argus/</loc>
+  </url>
+  
+  <url>
+    <loc>http://openstack-slides.mateimicu.com/05_deploy/02_rdo/</loc>
+  </url>
+  
+  <url>
+    <loc>http://openstack-slides.mateimicu.com/05_deploy/03_labs/</loc>
+  </url>
+  
+  <url>
+    <loc>http://openstack-slides.mateimicu.com/05_deploy/04_conjure_up/</loc>
+  </url>
+  
+  <url>
+    <loc>http://openstack-slides.mateimicu.com/05_deploy/01_devstack/</loc>
+  </url>
+  
+  <url>
+    <loc>http://openstack-slides.mateimicu.com/05_deploy/</loc>
+  </url>
+  
+  <url>
+    <loc>http://openstack-slides.mateimicu.com/02_history/09_next_hp/</loc>
+  </url>
+  
+  <url>
+    <loc>http://openstack-slides.mateimicu.com/02_history/08_next_oracle/</loc>
+  </url>
+  
+  <url>
+    <loc>http://openstack-slides.mateimicu.com/02_history/07_next_red_hat/</loc>
+  </url>
+  
+  <url>
+    <loc>http://openstack-slides.mateimicu.com/02_history/06_next_suse/</loc>
+  </url>
+  
+  <url>
+    <loc>http://openstack-slides.mateimicu.com/02_history/05_next_canonical/</loc>
+  </url>
+  
+  <url>
+    <loc>http://openstack-slides.mateimicu.com/02_history/04_first_release/</loc>
+  </url>
+  
+  <url>
+    <loc>http://openstack-slides.mateimicu.com/01_what_is_it/17_large_scale/</loc>
+  </url>
+  
+  <url>
+    <loc>http://openstack-slides.mateimicu.com/01_what_is_it/16_boot_centos_vm/</loc>
+  </url>
+  
+  <url>
+    <loc>http://openstack-slides.mateimicu.com/01_what_is_it/15_nova_schedule_2/</loc>
+  </url>
+  
+  <url>
+    <loc>http://openstack-slides.mateimicu.com/01_what_is_it/14_ask_nova_api/</loc>
+  </url>
+  
+  <url>
+    <loc>http://openstack-slides.mateimicu.com/01_what_is_it/13_boot_windows_vm/</loc>
+  </url>
+  
+  <url>
+    <loc>http://openstack-slides.mateimicu.com/01_what_is_it/12_nova_schedule/</loc>
+  </url>
+  
+  <url>
+    <loc>http://openstack-slides.mateimicu.com/02_history/03_rackstpace_swift/</loc>
+  </url>
+  
+  <url>
+    <loc>http://openstack-slides.mateimicu.com/01_what_is_it/11_horizon_forward_nova/</loc>
+  </url>
+  
+  <url>
+    <loc>http://openstack-slides.mateimicu.com/01_what_is_it/10_ask_for_a_new_instance/</loc>
+  </url>
+  
+  <url>
+    <loc>http://openstack-slides.mateimicu.com/01_what_is_it/09_interact_with_horizon/</loc>
+  </url>
+  
+  <url>
+    <loc>http://openstack-slides.mateimicu.com/04_development/07_testing/</loc>
+  </url>
+  
+  <url>
+    <loc>http://openstack-slides.mateimicu.com/01_what_is_it/08_install_keystone/</loc>
+  </url>
+  
+  <url>
+    <loc>http://openstack-slides.mateimicu.com/04_development/06_testing/</loc>
+  </url>
+  
+  <url>
+    <loc>http://openstack-slides.mateimicu.com/01_what_is_it/07_install_horizon/</loc>
+  </url>
+  
+  <url>
+    <loc>http://openstack-slides.mateimicu.com/04_development/05_testing/</loc>
+  </url>
+  
+  <url>
+    <loc>http://openstack-slides.mateimicu.com/01_what_is_it/06_install_glance/</loc>
+  </url>
+  
+  <url>
+    <loc>http://openstack-slides.mateimicu.com/04_development/04_how_is_it_developed/</loc>
+  </url>
+  
+  <url>
+    <loc>http://openstack-slides.mateimicu.com/01_what_is_it/05_install_nova/</loc>
+  </url>
+  
+  <url>
+    <loc>http://openstack-slides.mateimicu.com/04_development/03_openstack_contributors_queens_release/</loc>
+  </url>
+  
+  <url>
+    <loc>http://openstack-slides.mateimicu.com/01_what_is_it/04_install_neutron/</loc>
+  </url>
+  
+  <url>
+    <loc>http://openstack-slides.mateimicu.com/04_development/02_who_is_involved/</loc>
+  </url>
+  
+  <url>
+    <loc>http://openstack-slides.mateimicu.com/01_what_is_it/03_hypervisor/</loc>
+  </url>
+  
+  <url>
+    <loc>http://openstack-slides.mateimicu.com/04_development/01_open_source/</loc>
+  </url>
+  
+  <url>
+    <loc>http://openstack-slides.mateimicu.com/01_what_is_it/02_basic_setup/</loc>
+  </url>
+  
+  <url>
+    <loc>http://openstack-slides.mateimicu.com/02_history/02_nasa_nebula/</loc>
+  </url>
+  
+  <url>
+    <loc>http://openstack-slides.mateimicu.com/03_architecture/02_nova/</loc>
+  </url>
+  
+  <url>
+    <loc>http://openstack-slides.mateimicu.com/03_architecture/03_neutron/</loc>
+  </url>
+  
+  <url>
+    <loc>http://openstack-slides.mateimicu.com/04_development/</loc>
+  </url>
+  
+  <url>
+    <loc>http://openstack-slides.mateimicu.com/03_architecture/01_conceptual_view/</loc>
+  </url>
+  
+  <url>
+    <loc>http://openstack-slides.mateimicu.com/01_what_is_it/01_normal_datacenter/</loc>
+  </url>
+  
+  <url>
+    <loc>http://openstack-slides.mateimicu.com/02_history/01_year/</loc>
+  </url>
+  
+  <url>
+    <loc>http://openstack-slides.mateimicu.com/03_architecture/</loc>
+  </url>
+  
+  <url>
+    <loc>http://openstack-slides.mateimicu.com/02_history/</loc>
+  </url>
+  
+  <url>
+    <loc>http://openstack-slides.mateimicu.com/01_what_is_it/</loc>
+  </url>
+  
+  <url>
+    <loc>http://openstack-slides.mateimicu.com/06_argus/09_create_action_manager/</loc>
+  </url>
+  
+  <url>
+    <loc>http://openstack-slides.mateimicu.com/07_info/</loc>
+  </url>
+  
+  <url>
+    <loc>http://openstack-slides.mateimicu.com/</loc>
+  </url>
+  
+  <url>
+    <loc>http://openstack-slides.mateimicu.com/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://openstack-slides.mateimicu.com/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

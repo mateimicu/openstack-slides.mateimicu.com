@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mateimicu</title>
+    <link>http://openstack-slides.mateimicu.com/06_argus/</link>
+    <description>Recent content on mateimicu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://openstack-slides.mateimicu.com/06_argus/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>http://openstack-slides.mateimicu.com/06_argus/14_check_state/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://openstack-slides.mateimicu.com/06_argus/14_check_state/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://openstack-slides.mateimicu.com/06_argus/13_run_tests/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://openstack-slides.mateimicu.com/06_argus/13_run_tests/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://openstack-slides.mateimicu.com/06_argus/12_prepare_introspections/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://openstack-slides.mateimicu.com/06_argus/12_prepare_introspections/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://openstack-slides.mateimicu.com/06_argus/11_provision_vm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://openstack-slides.mateimicu.com/06_argus/11_provision_vm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://openstack-slides.mateimicu.com/06_argus/10_return_client/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://openstack-slides.mateimicu.com/06_argus/10_return_client/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://openstack-slides.mateimicu.com/06_argus/08_first_contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://openstack-slides.mateimicu.com/06_argus/08_first_contact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://openstack-slides.mateimicu.com/06_argus/07_ask_pulic_ip/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://openstack-slides.mateimicu.com/06_argus/07_ask_pulic_ip/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://openstack-slides.mateimicu.com/06_argus/06_win_rm_client/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://openstack-slides.mateimicu.com/06_argus/06_win_rm_client/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://openstack-slides.mateimicu.com/06_argus/05_get_client/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://openstack-slides.mateimicu.com/06_argus/05_get_client/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://openstack-slides.mateimicu.com/06_argus/04_recipe/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://openstack-slides.mateimicu.com/06_argus/04_recipe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://openstack-slides.mateimicu.com/06_argus/03_openstack_call/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://openstack-slides.mateimicu.com/06_argus/03_openstack_call/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://openstack-slides.mateimicu.com/06_argus/02_backend/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://openstack-slides.mateimicu.com/06_argus/02_backend/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://openstack-slides.mateimicu.com/06_argus/01_scenario/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://openstack-slides.mateimicu.com/06_argus/01_scenario/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://openstack-slides.mateimicu.com/06_argus/09_create_action_manager/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://openstack-slides.mateimicu.com/06_argus/09_create_action_manager/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

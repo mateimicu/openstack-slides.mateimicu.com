@@ -1,0 +1,18 @@
+sudo: false
+language: go
+
+env:
+  - HUGO_VERSION="0.31"
+
+install:
+  -  bash travis/get_hugo.sh
+
+script:
+  - bash travis/prepare_static_files.sh
+
+deploy:
+  provider: pages
+  skip_cleanup: true
+  github_token: $GITHUB_TOKEN # Set in travis-ci.org dashboard
+  on:
+    branch: master
